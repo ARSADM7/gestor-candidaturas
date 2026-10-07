@@ -1,0 +1,14 @@
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.idea/
+.vscode/
+*.swp
+
+# Node (não é usado, mas por segurança)
+node_modules/
